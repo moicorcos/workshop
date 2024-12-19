@@ -8980,6 +8980,14 @@ a.has-text-white:hover, a.has-text-white:focus {
   background-color: white !important;
 }
 
+.has-text-red {
+  color: #1a1a1a !important;
+}
+
+a.has-text-red:hover, a.has-text-red:focus {
+  color: red !important;
+}
+
 .has-text-black {
   color: #0a0a0a !important;
 }
