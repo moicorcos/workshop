@@ -9012,6 +9012,10 @@ a.has-text-light:hover, a.has-text-light:focus {
   background-color: whitesmoke !important;
 }
 
+.has-background-green {
+  background-color: #daefdc !important;
+}
+
 .has-text-dark {
   color: #363636 !important;
 }
