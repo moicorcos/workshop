@@ -5,7 +5,7 @@
     --color4: #48BDD9;/* Azul */
     --color5: #486C2C; /* Verde */
     --color6: #F05A2A;/* Naranja */    
-    --color7: #bce3c7; 
+    --color7: #BCE3C7; 
 }
 .background-color6{background-color: var(--color6);}
 .text-color6{color: var(--color6);}
