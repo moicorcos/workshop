@@ -8980,11 +8980,11 @@ a.has-text-white:hover, a.has-text-white:focus {
   background-color: white !important;
 }
 
-.has-text-red {
-  color: #ff2400 !important;
+.has-text-anthracite {
+  color: #262d30 !important;
 }
 
-a.has-text-red:hover, a.has-text-red:focus {
+a.has-text-anthracite:hover, a.has-text-anthracite:focus {
   color: red !important;
 }
 
